@@ -1,0 +1,176 @@
+/* scans/KALEScan/WRScan/main.css  Dec. 2008 */
+/* modified from: scans/WILScan/web/main.css */
+#titlediv {
+ position: absolute;
+ /*left: 5px;*/
+ /*top : 1px;*/
+ width: 250px;
+ height: 10%;
+ /* background-color: white; */
+ font-weight: bold;
+ font-size: 120%;
+ color: maroon;
+}
+#botleftdiv {
+ position: absolute;
+ /*left: 5px; */
+ top : 12%;
+ bottom: 3%;
+ width: 250px;
+ overflow:auto;
+ white-space: nowrap;
+ margin-top:1em; 
+ padding:1em; 
+ min-height:7em;
+ background-color: #fbfdc8; /* pale yellow */
+ background-color: #ffffff; /* pale white */
+}
+#wordtit {
+ position: absolute;
+ top : 0%;
+ height: 2.75%;
+ width: 250px;
+ background-color: white;
+ white-space: nowrap;
+ border-bottom: thin solid #000000;
+}
+#words {
+ position: absolute;
+ top : 3%;
+ height: 50%;
+ width: 250px;
+ background-color: white;
+ overflow:auto;
+ white-space: nowrap;
+}
+#prefacetit {
+ position: absolute;
+ top : 55%;
+ height: 2.75%;
+ width: 250px;
+ background-color: white;
+ white-space: nowrap;
+ border-bottom: thin solid #000000;
+}
+#preface {
+ position: absolute;
+ top : 58%;
+ height: 10%;
+ width: 250px;
+ background-color: white;
+ overflow:auto;
+ white-space: nowrap;
+}
+#indextit {
+ position: absolute;
+ top : 70%;
+ height: 2.75%;
+ width: 250px;
+ background-color: white;
+ overflow:auto;
+ white-space: nowrap;
+ padding-left: 5px;
+ border-bottom: thin solid #000000;
+}
+
+#index {
+ position: absolute;
+ top : 73%;
+ height: 17%;
+ width: 250px;
+ background-color: white;
+ overflow:auto;
+ white-space: nowrap;
+}
+.wordlist {
+ background-color: white;
+}
+#rightpane {
+ position: absolute;
+ left: 275px;
+ top : 1px;
+ right: 5px;
+ bottom: 3%;
+ background-color: white;
+ overflow:auto;
+}
+
+.prevpage {position: fixed; right: 25px; top: 10px;}
+
+a.lplink:link {
+        color: #00ff00;
+        text-decoration:none;
+}
+a.lplink:visited {
+        color: #ff0000;
+        text-decoration:underline;
+}
+a.lplink:hover {
+	background-color: #ffffcc;
+	color: #000033;
+        text-decoration:none;
+}
+
+a.lplink:active {
+	color: #4876ff;
+        text-decoration:none;
+}
+.linkword {
+ color:blue;
+}
+.san {
+/* font-style: italic; */
+ color: #0000ff;
+}
+.section {
+ color: #ff0000;
+}
+#pagenav {
+ position: fixed; 
+ left: 285px; /* 10 more than for rightpane */
+ top: 10px;  
+/*  width: 30px; height: 30px; */
+  background-color: #EBF4FD;
+}
+.pagenum {
+ font-size: smaller;
+}
+span.nppage1 {
+  font-weight: bold;
+  font-size: 24pt;
+opacity:0.3;
+/* this is for ie. it gives firefox css error, but works fine otherwise */
+filter:alpha(opacity=30); 
+/*background-color: #DBE4ED;  */
+}
+
+a.nppage:link {
+        text-decoration: none;
+}
+a.nppage:visited {
+        text-decoration: none;       
+}
+a.nppage:hover {
+	color: #FF0000;
+        text-decoration: none;
+        cursor: pointer;
+}
+span.iddisp {
+ color : blue;
+ font-size: larger;
+}
+a.iddisp1:link {
+        text-decoration: none;
+}
+a.iddisp1:visited {
+        color: #00FF00;   
+        text-decoration: none;    
+}
+a.iddisp1:hover {
+	color: #FF0000;
+        text-decoration: none;
+        cursor: pointer;
+}
+a.iddisp1:active {
+	color: #4876ff;
+}
