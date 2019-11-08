@@ -37,9 +37,11 @@ body {
 <!--end custom header content for this example-->
 <!-- end <head> and start <body> -->
 <?php
- $page = $_GET['page']; 
- if(!($page)) {$page = $argv[1];}
- if (!($page)) {$page = -9;} // title page
+ if (isset($_GET['page'])) {
+  $page = $_GET['page']; 
+ }else {
+  $page = -9; // title page
+ }
 // echo "page = $page\n";
  if ($page) {
   $src = $page;
