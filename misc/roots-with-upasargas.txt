@@ -1,0 +1,848 @@
+; Whitney has 845 in his Roots, but not all have upasargas.
+; 845 Whitney roots, with upasargas where available
+; ref: https://github.com/sanskrit-lexicon/PWK/issues/68#issuecomment-596442830
+√ 1 ji "conquer" (apa, abhi, ava, ā, ud, nis, parā, vi, sam)
+√ 1 kṛ (skṛ) "make" (adhi, anu, apa, abhi, ā, upa, ni, nis, pari, pra, vi, sam)
+√ 1 kṛt "cut" (apa, api, ava, ud, ni, pari, pra, vi, sam)
+√ 1 kṣi "possess" (adhi, ā, upa, pari, sam)
+√ 1 lī "cling" (abhi, ava, ā, ni, pra, vi, sam)
+√ 1 luṭh "roll" (pra, vi)
+√ 1 mṛ "die" (anu, abhi, pari)
+√ 1 mā "measure" (anu, upa, nis, pari, pra, vi, sam)
+√ 1 naś "be lost" (apa, ava, nis, pra, vi)
+√ 1 nu "praise" (anu, abhi, ā, pra, sam)
+√ 1 pṛ "fill" (abhi, ā, ni, pari, pra, sam)
+√ 1 pā "drink" (ā, ni, pari, pra, vi, sam)
+√ 1 pat "fly, fall" (ati, anu, abhi, ava, ā, ud, ud, upa, ni, nis, parā, pari, pra, vi, sam)
+√ 1 paś "see" (ati, anu, ava, ud, pari, pra, vi, sam)
+√ 1 phal "brust" (ud, vi, sam)
+√ 1 pī "vide √ pi"
+√ 1 rā "give" (sam)
+√ 1 rās "roar"
+√ 1 raj "direct"
+√ 1 ran "take pleasure"
+√ 1 rudh "grow"
+√ 1 sā "bind" (abhi, ava, ud, vi)
+√ 1 sidh "repel" (apa, ava, ā, ud, ni, nis, pra)
+√ 1 stu "praise" (anu, abhi, upa, pari, pra, vi, sam)
+√ 1 tan "stretch" (adhi, anu, abhi, ava, ā, pari, pra, vi, sam)
+√ 1 ukṣ "sprinkle" (ā, pari, pra, vi, sam)
+√ 1 ūh "remove" (adhi, apa, abhi, ava, ud, upa, nis, pari, vi, sam)
+√ 1 vṛ "cover" (anu, apa, api, abhi, ā, ni, nis, pari, pra, vi, sam)
+√ 1 vā "blow" (anu, abhi, ā, ava, upa, nis, parā, pra, vi, sam)
+√ 1 vap "strew" (anu, apa, api, abhi, ā, ud, upa, ni, nis, parā, pari, pra, sam)
+√ 1 vas "shine" (apa, vi)
+√ 1 vic "sift" (apa, vi)
+√ 1 vid "know" (anu, ā, ni, pari, pra, vi, sam)
+√ 1 vidh "worship" (upa)
+√ 1 yu "unite" (ā, ni, pra, sam)
+√ 1 śṛ "crush" (api, ava, ni, nis, parā, pari, pra, vi, sam)
+√ 1 śās "order" (anu, abhi, ā, ud, pra, adhi, vi, sam)
+√ 1 śad "prevail"
+√ 1 śam "labor"
+√ 1 śī "fall"
+√ 1 śrī "mix"
+√ 1 śuṣ "dry" (anu, ud, sam)
+√ 2 ṛj "shine"
+√ 2 akṣ "mutilate"
+√ 2 as "throw" (apa, abhi, ud, ni, nis, pari, pra, vi, sam)
+√ 2 aś "eat" (ati, upa, pra, sam)
+√ 2 bṛh "tear"
+√ 2 bhuj "enjoy" (anu, abhi, upa, pari, sam)
+√ 2 ci "note, observe" (anu, apa, ni, nis, pari, vi, sam)
+√ 2 dṛ "heed" (ā)
+√ 2 dā "divide, share" (ava, nis, vi, sam)
+√ 2 dhā "suck" (upa, nis)
+√ 2 dhāv "rinse" (ā, ni, pra, vi, sam)
+√ 2 dī "shine" (abhi, ā, ni, pra, sam)
+√ 2 dīv (dev) "lament" (pari)
+√ 2 drā "sleep" (ava, ni)
+√ 2 gṛ "swallow" (ava, ud, ni, nis, sam)
+√ 2 gā "sing" (anu, abhi, ā, ud, upa, ni, pra, vi, sam)
+√ 2 hṛ "be angry"
+√ 2 hā "go forth" (ati, anu, apa, abhi, ud, ni, pra, vi, sam)
+√ 2 i "send"
+√ 2 iṣ "send" (anu, pra)
+√ 2 jṛ "sing" (sam)
+√ 2 jakṣ "laugh"
+√ 2 ji "quicken" (pra)
+√ 2 kṛ "scatter" (anu, abhi, ava, ā, ud, upa, pari, pra, vi, sam)
+√ 2 kṛt "spin"
+√ 2 kṣi "destroy" (apa, upa, pari, sam)
+√ 2 lī "be unsteady"
+√ 2 luṭh "rob" (nis, vi)
+√ 2 mṛ "crush" (upa, pra, vi)
+√ 2 mā "exchange"
+√ 2 mi "damage"
+√ 2 naś "attain" (vi, sam)
+√ 2 nu "move" (apa, abhi, ava)
+√ 2 pṛ "pass" (ati, nis, sam)
+√ 2 pā "protect" (abhi, ni, nis, pari, pra)
+√ 2 pat "rule"
+√ 2 paś "bind"
+√ 2 phal "fruit" (vi)
+√ 2 pī "vide √ pīy"
+√ 2 rā "bark" (abhi)
+√ 2 rās "vide √ 1 rā"
+√ 2 raj "color" (anu, apa, abhi, upa, vi, sam)
+√ 2 ran "ring"
+√ 2 ru "break"
+√ 2 rudh "obstruct" (anu, apa, ava, ā, upa, ni, pari, pra, vi, sam)
+√ 2 sā "vide √ san"
+√ 2 sidh "succeed" (abhi, pra, sam)
+√ 2 stu "drip"
+√ 2 tan "roar"
+√ 2 ukṣ "grow"
+√ 2 ūh "consider" (api, abhi, ni)
+√ 2 vṛ "choose" (apa, abhi, ā, nis, pari, pra)
+√ 2 vā "weave" (ā, ud, pari, pra, vi, sam, óta)
+√ 2 vap "shear" (pari, pra)
+√ 2 vas "clothe" (adhi, anu, abhi, ni, vi, sam)
+√ 2 vic "vide √ vyac"
+√ 2 vid "find" (adhi, anu, abhi, ā, nis, pari, sam)
+√ 2 vidh "vide √ vyadh"
+√ 2 yu "separate" (apa, nis, pra, vi)
+√ 2 śṛ "vide √ śrā"
+√ 2 śās "cut"
+√ 2 śad "fall" (pari)
+√ 2 śam "be quiet" (abhi, upa, ni, pari, pra)
+√ 2 śī "lie" (ati, adhi, anu, abhi, ā, upa, pari, pra, sam)
+√ 2 śrī "vide √ śrā"
+√ 2 śuṣ "blow"
+√ 3 dā "bind" (ā, ni, vi, sam)
+√ 3 gṛ "wake" (pra)
+√ 3 kṛ "commemorate"
+√ 3 mā "bellow" (anu, ā)
+√ 3 pṛ "be busy" (ā)
+√ 3 pā "rise against"
+√ 3 vā (in vivāsa -) "vide √ van"
+√ 3 vas "dwell" (adhi, anu, ā, ud, upa, ni, nis, pari, pra, vi, sam)
+√ 3 śṛ "vide √ śri"
+√ 3 śam "note" (ni)
+√ 4 dā "clear"
+√ aṅg "move"
+√ aṃh "be narrow or distressing"
+√ aṭ "wander"
+√ āp "obtain" (anu, abhi, ava, pari, pra, vi, sam)
+√ ās "sit" (adhi, anu, ud, upa, pari, sam)
+√ ac "bend"
+√ ah "say" (adhi, anu, abhi, nis, pra)
+√ aj "drive"
+√ an "breathe"
+√ arh "deserve"
+√ arj "vide √ 1 ṛjṛñj"
+√ art "vide √ ṛt"
+√ at "wander"
+√ av "favor" (upa, pra)
+√ ay "vide √ 1 i"
+√ bṛṃh "roar"
+√ bādh "oppress" (ati, apa, abhi, ava, ā, ud, ni, nis, pari, pra, vi, sam)
+√ bal "whirl (?)"
+√ bandh "bind" (anu, ava, ā, ud, upa, ni, pari, pra, sam)
+√ bhṛ "bear" (apa, ava, ā, ud, upa, nis, pari, pra, vi, sam)
+√ bhṛjj "roast" (sam)
+√ bhañj "break" (abhi, ava, nis, pra, vi, sam)
+√ bhaṇ "speak"
+√ bhaṣ "bark"
+√ bhaṭ "hire"
+√ bhā "shine" (ati, anu, abhi, ava, ā, ud, nis, pra, vi, sam)
+√ bhāṣ "speak" (anu, apa, abhi, ā, pari, pra, vi, sam)
+√ bhām "be angry"
+√ bhās "shine" (ava, ā, ud, nis, pari, pra, vi)
+√ bhaj "divide, share" (apa, ā, nis, pari, vi, sam)
+√ bhal "perceive"
+√ bhan "speak"
+√ bhand "be bright"
+√ bharts "revile" (sam)
+√ bharv "devour"
+√ bhas "devour"
+√ bhiṣaj "heal"
+√ bhid "split" (ava, ud, nis, pari, pra, vi, sam)
+√ bhī "fear" (ni, vi)
+√ bhikṣ "beg"
+√ bhraṃś "fall" (pra, vi, sam)
+√ bhrāj "shine" (pari, sam)
+√ bhreṣ "totter"
+√ bhrī "consume"
+√ bhur "quiver" (pari, sam)
+√ bhuraj 
+√ bhū "be" (ati, anu, apa, abhi, ā, ud, upa, nis, parā, pari, pra, sam)
+√ bhūṣ "attend upon, adorn" (ā, upa, pari, vi)
+√ bhyas "fear"
+√ blī "vide √ vlī"
+√ brū "say" (ati, adhi, anu, apa, ā, ud, upa, nis, pra, vi, sam)
+√ budh "know, wake" (anu, ava, ā, ud, ni, pra, vi, sam)
+√ bul "submerge"
+√ cṛt "bind" (ati, ava, ā, upa, ni, nis, pari, vi, sam)
+√ cañc "dance"
+√ caṭ "go (?)" (ud, vi)
+√ cāy "note, observe" (apa, ni)
+√ cakṣ "see" (anu, abhi, ava, ā, pari, pra, vi, sam)
+√ cakās "shine"
+√ cal "stir" (ā, ud, pari, pra, vi, sam)
+√ cam "sip"
+√ can "be bleased"
+√ cand "vide √ ścand"
+√ car "move"
+√ carc "repeat"
+√ carv "chew"
+√ cat "hide, (?) " (pra, vi)
+√ ceṣṭ "stir" (ā, pari, vi, sam)
+√ chṛd "spue, eject" (ā, pra, vi)
+√ chā "cut up" (ava, ā, pra)
+√ chand "seem, please" (upa, sam)
+√ chid "cut off" (ava, ā, ud, pari, pra, vi, sam)
+√ chuṭ "wrench"
+√ chur "scatter" (ā, vi)
+√ cint "think" (anu, abhi, pari, pra, vi, sam)
+√ cit "perceive, know, appear" (ā, pra, vi, sam)
+√ cud "impel" (abhi, pari, pra, sam)
+√ culump "suck in"
+√ cumb "kiss" (pari, vi)
+√ cup "stir"
+√ cur "steal"
+√ cūṣ "draw, suck"
+√ cyu "move, stir" (ā, ud, pari, pra, vi)
+√ cyut "drip"
+√ dṛbh "bunch" (sam)
+√ dṛh "make firm"
+√ dṛp "rave"
+√ dṛś "see" (anu, abhi, ā, ud, upa, ni, pari, pra, vi, sam)
+√ daṃs "be wondrous"
+√ dās "vide √ das"
+√ dāś "make offering"
+√ dabh "harm" (ā, upa)
+√ dad "vide √ 1 dā"
+√ dadh "vide √ 1 dhā"
+√ dagh "reach to" (ati)
+√ dah "burn" (ati, anu, upa, ni, nis, pari, pra, vi, sam)
+√ dakṣ "be able"
+√ dal "burst" (ava, ud, vi)
+√ dam "control"
+√ dan "straighten (?)"
+√ daridrā "vide √ 1 drā"
+√ das "waste" (pra, vi, abhi)
+√ day "share" (ava, vi)
+√ dev "vide √ 2 dīv"
+√ dhṛ "hold" (adhi, abhi, ava, ā, ud, upa, ni, nis, pra, vi, sam)
+√ dhṛṣ "dare" (apa, abhi, ā, pra, vi, sam)
+√ dham "blow" (anu, apa, abhi, ā, ud, upa, nis, parā, pra, vi, sam)
+√ dhanv "run" (anu, abhi, pra, sam)
+√ dhav "flow" (ava)
+√ dhi "nourish"
+√ dhī "think" (anu, abhi, ā, ud, vi)
+√ dhmā "vide √ dham"
+√ dhraj "sweep"
+√ dhukṣ "kindle" (sam)
+√ dhū "shake" (apa, abhi, ava, ā, ud, nis, pra, Int, vi, sam)
+√ dhūrv "injure"
+√ dhvṛ "injure"
+√ dhvaṃs "scatter" (apa, ava, ni, pra, vi)
+√ dhyā "think" (anu, apa, abhi, ava, ni, nis, pra, sam)
+√ dih "smear" (abhi, pra, sam)
+√ dīdhī "vide √ dhī"
+√ dīkṣ "be consecrated" (abhi)
+√ dīp "shine" (ā, ud, upa, pra, vi, sam)
+√ dīv "play" (ati, vi)
+√ div "play"
+√ diś "point" (ati, anu, apa, ā, ud, upa, nis, pari, pra, sam)
+√ drāḍ "split"
+√ dram "run"
+√ dru "run" (ati, adhi, anu, apa, abhi, ā, ud, upa, nis, pari, pra, vi, sam)
+√ druh "be hostile" (abhi)
+√ drū "hurl (?)"
+√ du "burn" (abhi, ā, pari, pra, vi)
+√ duṣ "spoil" (pra, vi, sam)
+√ dudh "stir up"
+√ duh "milk, derive" (nis, vi, sam)
+√ dul "raise"
+√ dū "vide √ du"
+√ dvar ? 
+√ dviṣ "hate" (pra, vi)
+√ dyu "attack"
+√ dyut "shine" (abhi, ud, pra, vi, sam)
+√ edh "thrive" (sam)
+√ gṛdh "be greedy" (anu)
+√ gāh "plunge" (ati, abhi, ava, ud, upa, pra, vi)
+√ gabh "vide √ gāh"
+√ gad "say" (ni)
+√ gadh "attach (?)"
+√ gai "sing"
+√ gal "drop" (ava, ā, pra, vi)
+√ galbh "dare"
+√ gam "go" (ati, adhi, anu, apa, api, abhi, ava, ā, ud, upa, ni, nis, parā, pari, pra, vi, sam)
+√ gard "exult (?)"
+√ garh "chide"
+√ garj "roar" (anu, abhi, pra, vi, sam)
+√ ghṛ "drip" (vyā)
+√ ghṛṣ "rub" (ava, ud, ni, nis, sam,, vyā)
+√ ghaṭṭ "rub" (ava, ud, upa, pari, vi, sam)
+√ ghar "vide √ ghṛ"
+√ ghas "eat"
+√ ghrā "smell"
+√ ghuṣ "sound" (ava, ā, ud, vi, sam)
+√ ghuṭ "turn (?)"
+√ ghūrṇ "waver" (vi)
+√ gir "vide √ 2 gṛ"
+√ glā "be weary" (pra)
+√ glah "gamble"
+√ glap "vide √ glā"
+√ grabh "seize" (anu, apa, abhi, ava, ā)
+√ gras "devour"
+√ grath "tie" (ud, vi, sam)
+√ gu "sound"
+√ guñj "hum"
+√ guṇṭh "cover up" (ava, ā, pari)
+√ guh "hide" (apa, ava, ud, upa, ni)
+√ gulph "bunch"
+√ gup "protect" (vi)
+√ guph "twine"
+√ gur "greet" (apa, ava, ā, ud)
+√ gūrd "exult (?)"
+√ gūrdh "exalt (?)"
+√ hṛṣ "be excited" (anu, abhi, ud, pari, pra, sam)
+√ hās "go emulously"
+√ han "smite" (apa, abhi, ava, ā, ud, upa, ni, nis, parā, pari, pra, vi, sam)
+√ har "be gratified" (abhi, ā, vi)
+√ has "laugh" (apa, ava, upa, pari, pra, vi)
+√ heḍ "vide √ hīḍ"
+√ heṣ "whinney" (abhi)
+√ heṭh 
+√ hi "impel" (ā, pra, sam)
+√ hiṇḍ "roam" (ā)
+√ hīḍ "be hostile"
+√ hikk "sob"
+√ hlād "refresh"
+√ hnu "hide" (apa, ni)
+√ hrād "make a noise" (ni, nis, sam)
+√ hras "shorten"
+√ hreṣ "neigh"
+√ hrī "be ashamed"
+√ hru "vide √ hvṛ"
+√ hu "sacrifice" (adhi, abhi, ava, ā, upa, pra, sam)
+√ hur "vide √ hvṛ"
+√ hū "call" (ati, anu, abhi, ava, ā, ud, upa, ni, nis, pra, vi, sam)
+√ hūrch "fall away" (anu, vi)
+√ hvṛ "be ormake crooked" (ā, upa, vi)
+√ hval "go wrong" (vi)
+√ iḍ 
+√ iṅg "stir" (ud)
+√ iṭ 
+√ ich "vide √ 1 iṣ "
+√ idh "kindle" (anu, abhi, ā, pari, sam)
+√ īṅkh "swing"
+√ īh "be eager" (sam)
+√ īj "vide √ ej "
+√ īkṣ "see" (apa, abhi, ava, ud, upa, nis, pari, pra, vi, sam)
+√ īr "set in motion ?" (ā, ud, pra, vi, sam)
+√ īś "be master"
+√ il "be quiet"
+√ in "vide √ 2 i"
+√ inakṣ "vide √ 2 naś"
+√ iradh "vide √ rādh"
+√ irajy "vide √ ṛj"
+√ iyakṣ "vide √ yaj"
+√ jñā "know" (anu, abhi, ava, ā, upa, nis, pari, pra, vi, sam)
+√ jṛ "waste away" (sam)
+√ jṛmbh "gape" (ud, pari, pra, vi, sam)
+√ jā "vide √ jan"
+√ jagh "eat, devour"
+√ jah "vide √ hā"
+√ jalp "murmur, speak" (abhi, upa, pari, pra, vi, sam)
+√ jam 
+√ jambh "chew up, crush" (Int)
+√ jan "give birth, be born" (adhi, anu, abhi, ā, ud, upa, pra, vi, sam)
+√ jap "whisper" (ā, upa, sam)
+√ jar "vide √ jṛ"
+√ jas "be exhausted" (ud, ni)
+√ jeh "loll, pant"
+√ jhaṇ "sound"
+√ jhar "fall"
+√ jīv "live" (ati, anu, ā, ud, upa)
+√ jri "go" (upa)
+√ juṣ "enjoy" (abhi, upa)
+√ jur "vide √  jṛ"
+√ jū "be swift" (pra)
+√ jūrv "consume" (ni, sam)
+√ jval "burn, flame" (abhi, ava, ud, pra, sam)
+√ jvar "be hot" (sam)
+√ jyā "overpower, injure" (adhi, pra)
+√ jyut "shine"
+√ kṛṣ "drag, plough" (ati, anu, apa, ava, ā, ud, ni, nis, pari, pra, vi)
+√ kḷp "be adapted" (abhi, ava, upa, pari, pra, vi, sam)
+√ kṛś "be lean" (vi)
+√ kṣṇu "whet" (ava, sam)
+√ kṣā "burn" (pra, sam)
+√ kṣad "divide"
+√ kṣal "wash" (pra)
+√ kṣam "endure" (abhi, sam)
+√ kṣan "wound"
+√ kṣap "be abstinent" (sam)
+√ kṣar "flow" (abhi, anu, abhi, ā, upa, pra, vi, sam)
+√ kṣip "throw" (adhi, apa, abhi, ava, ā, ud, upa, ni, pari, pra, vi, sam)
+√ kṣmā "tremble"
+√ kṣu "sneeze"
+√ kṣubh "quake" (vi, sam)
+√ kṣud "crush" (sam)
+√ kṣudh "be hungry" (vi)
+√ kṣup "be startled (?)"
+√ kṣvel "play"
+√ kṣviḍ "hum"
+√ kṣvid "hum"
+√ kaṣ "scratch" (apa, ud, ni)
+√ kā "vide √ kan "
+√ kāṅkṣ "desire" (anu, abhi, ā, pra)
+√ kās "cough"
+√ kāś "appear, make a show" (abhi, ava, nis, pra, vi, sam)
+√ kad "destroy"
+√ kal "drive, produce" (ā, ud, upa, nis, pari, pra, sam)
+√ kam "love" (anu, abhi, ni)
+√ kamp "tremble" (anu, abhi, ā, ud, pra, vi, sam)
+√ kan "be pleased, enjoy" (ā)
+√ kas "open" (ud, nis, pra, vi)
+√ kath "talk"
+√ katth "boast" (vi)
+√ khañj "limp"
+√ khā "vide √ khan"
+√ khād "chew" (pra, sam,, pari , pra, vi , sam)
+√ khad "be hard"
+√ khall "be relaxed"
+√ khan "dig" (abhi, ud, ni, nis, pari, pra, vi)
+√ kharj "creak"
+√ khel "stagger"
+√ khid "tear" (ā, ud, ni, nis, pari, pra, vi, sam)
+√ khud "to have sexual intercourse"
+√ khyā "see" (ati, anu, abhi, ava, ā, pari, pra, vi, sam)
+√ klam "be weary" (pari, vi)
+√ kland "vide √ krand"
+√ klath "turn (?)"
+√ klav "stammer"
+√ klid "be wet"
+√ kliś "distress" (ati, sam)
+√ knū "wet"
+√ krakṣ "crash"
+√ kram "stride" (ati, adhi, anu, apa, abhi, ava, ā, ud, upa, ni, nis, parā, pari, pra, vi, sam)
+√ krand "cry out" (abhi, ava, ā, pra, vi, sam)
+√ krath "be jubilant"
+√ krī "buy" (apa, abhi, ava, ā, upa, nis, pari, vi, sam)
+√ krīḍ "play" (ā, pari, pra, vi)
+√ kru "be rough or raw"
+√ krudh "be angry" (abhi, sam)
+√ krūḍ "thicken, (?)"
+√ kruś "cry out" (anu, abhi, ā, ud, upa, pra, vi, sam)
+√ ku "vide √ kū"
+√ kuñj "rustle"
+√ kuṇṭh "dull"
+√ kuṣ "tear" (nis)
+√ kuṭṭ "divide, crush"
+√ kuc "shrink, curl" (sam)
+√ kup "be angry" (pari, pra, sam)
+√ kuth "stink"
+√ kū "design"
+√ kūḍ "burn" (upa)
+√ kūṇ "shrink" (ni, vi)
+√ kūj "hum" (anu, sam)
+√ kūrd "leap, exult" (ud, pra)
+√ kvaṇ "sound" (ud)
+√ kvath "boil"
+√ laḍ "move about"
+√ laṅgh "leap" (ati, abhi, ud, vi)
+√ laṣ "desire" (ā, pari)
+√ lā "grasp"
+√ lāñch "mark"
+√ labh "take" (anu, abhi, ā, upa, pra, vi, sam)
+√ lag "attach" (ava, ā, vi)
+√ lajj "be ashamed" (vi, sam)
+√ lal "sport"
+√ lam "take pleasure"
+√ lamb "hang down" (ava, ā, ud, pari, pra, vi)
+√ lap "prate" (apa, abhi, ā, ud, pra, vi, sam)
+√ las "be lively" (ud, vi)
+√ lih "lick" (ud, upa, nis, pari, vi, sam)
+√ likh "scratch" (abhi, ā, ud, pari, pra, vi, sam)
+√ lip "smear" (anu, ava, ā, upa, ni, sam)
+√ liś "tear"
+√ loc "see, consider" (ā, nis)
+√ lok "look" (abhi, ava, ā, pari)
+√ luñc "tear" (ava, vi)
+√ lubh "be lustful" (anu, abhi, ā, upa, pari, pra, vi, sam)
+√ lul "be lively"
+√ lup "break" (apa, ava, ā, pari, pra, vi, sam)
+√ lū "cut" (ava, ā, pra, vi)
+√ mṛḍ "be gracious" (abhi)
+√ mṛṇ "vide √ 2 mṛ"
+√ mṛṣ "not heed" (api, ā, upa, pra)
+√ mṛc "injure"
+√ mṛch "perish"
+√ mṛd "rub, crush" (abhi, ava, ud, ni, pari, pra, vi, sam)
+√ mṛdh "neglect" (pari)
+√ mṛj "wipe" (anu, apa, ava, ā, ud, upa, ni, nis, pari, pra, vi, sam)
+√ mṛkṣ "stroke" (abhi, ni)
+√ mṛś "touch, feel" (anu, abhi, ava, ā, parā, pari, pra, vi, sam)
+√ mañc "purify (?)"
+√ maṇ "sound"
+√ maṇḍ "deck" (pari)
+√ maṇṭ 
+√ mārg "chase" (pari)
+√ mad "be exhilarated, exhilarate" (anu, abhi, ud, upa, pra, vi, sam)
+√ mah "vide √ maṃh"
+√ majj "sink" (ud, upa, ni, nis, pra, vi)
+√ man "think" (ati, anu, ava, abhi, ava, pari, vi, sam)
+√ math "shake" (abhi, ā, ud, upa, nis, pra, vi, sam)
+√ med (mid) "be fat"
+√ miṣ "wink"
+√ mid "vide √ med"
+√ migh "vide √ mih"
+√ mih "urinate" (abhi, ava, ni, pari, pra)
+√ mī "damage" (ā, ud, pra)
+√ mīl "wink" (ā, ud, ni, sam)
+√ mīv "push" (ā, pra)
+√ mikṣ (miś) "mix"
+√ mil "combine" (sam)
+√ mith "alternate, altercate"
+√ mlā "relax" (vi)
+√ mlech "speak barbarously"
+√ mluc "vide √ mruc"
+√ mlup "vide √ mruc"
+√ mnā "note" (ā)
+√ modṣ "vide √ muc"
+√ mrad "vide √ mṛd"
+√ mrit "dissolve"
+√ mruc "set" (ni, ni)
+√ muṣ "steal" (abhi, ā, nis, pari, pra, vi, sam)
+√ muṭ "break" (ud)
+√ muc "release" (ati, abhi, ava, ā, ud, upa, nis, pari, pra, vi, sam)
+√ mud "be merry" (anu, pra)
+√ muh "be crazed" (ati, anu, pari, pra, vi, sam)
+√ mū "vide √ mīv"
+√ mūrch "thicken" (sam)
+√ myakṣ "be situated (?)" (apa, ā, ni, parā, sam)
+√ nṛ "sport"
+√ nṛt "dance" (anu, ā, upa, pari, pra, sam)
+√ naṭ "dance, play" (ud)
+√ nāth "seek aid" (anu, upa)
+√ nabh "burst" (ud, pra)
+√ nad "sound" (anu, abhi, ud, upa, ni, pra, vi, sam)
+√ nah "tie" (apa, api, ava, ā, ud, upa, pari, sam)
+√ nakṣ "attain" (abhi, ava, pari, pra)
+√ nam "bend, bow" (ati, anu, abhi, ava, ā, ud, upa, ni, pari, pra, vi, sam)
+√ nand "rejoice" (abhi, ā)
+√ nard "bellow" (abhi, vi, sam)
+√ nas "unite" (sam)
+√ ned "flow" (ati)
+√ niṃs "kiss"
+√ nī "lead" (ati, anu, apa, abhi, ava, ā, ud, upa, ni, nis, parā, pari, pra, vi, sam)
+√ nij "wash" (ava, nis, pra, vi)
+√ nikṣ "pierce" (vi)
+√ nind "revile" (vi)
+√ nud "push" (apa, nis, parā, pra, vi, sam)
+√ pṛṇ "vide √ 1 pṛ"
+√ pṛc "mix" (ā, upa, vi, sam)
+√ pṛt "fight"
+√ pṛś 
+√ paṇ "bargain" (vi)
+√ paṭ "tear" (ava, ud, vi)
+√ paṭh "read" (anu, pari, pra, vi, sam)
+√ pāy "to void excrement"
+√ pad "go" (ati, anu, apa, api, abhi, ava, ā, ud, upa, ni, nis, pra, vi, sam)
+√ paj "start (?)"
+√ pan "admire" (ā, vi)
+√ pard "fart"
+√ path "go (?)"
+√ phaṇ "spring"
+√ phar "scatter (?)"
+√ pi "swell, fatten" (abhi, ā, pra)
+√ piṣ "crush" (nis, pra, vi, sam)
+√ pibd "be firm(?)"
+√ pīḍ "press" (abhi, ava, ā, ud, upa, ni, nis, pari, pra, sam)
+√ pīy "abuse"
+√ pinv "fatten" (pra)
+√ pis "stretch (?)"
+√ piś "adorn" (abhi, ā)
+√ plī (?) 
+√ plu "float" (abhi, ava, ā, ud, upa, pari, pra, vi, sam)
+√ pluṣ "burn"
+√ prā "fill"
+√ prach "ask" (anu, ā, pari, vi, sam)
+√ prath "spread" (anu, abhi, ā, vi)
+√ prī "please" (ā, sam)
+√ pru "flow" (ati, apa, abhi, ud, ni)
+√ pruṣ "sprinkle" (abhi, pari, vi)
+√ pruth "snort" (pra)
+√ psā "devour"
+√ puṣ "thrive" (uda, upa)
+√ puṭ "scale"
+√ puth "crush" (vi)
+√ pū "cleanse" (ati, abhi, ā, ud, nis, parā, pari, vi, sam)
+√ pūj "reverence" (abhi, pari, pra, sam)
+√ pūr "vide √ 1 pṛ"
+√ pūy "stink"
+√ pyā "fill up" (ā, pra)
+√ raṅg "rock"
+√ rañch "mark"
+√ raṇv "delight"
+√ raṭ "howl" (ā)
+√ rādh "succeed" (apa, abhi, ava, ā, vi, sam)
+√ rāj "be kingly" (anu, nis, pari, vi, sam)
+√ rabh "take hold" (anu, ā, pari, sam)
+√ rac "procuce"
+√ rad "dig" (pra, vi)
+√ radh "be ormake subject" (ni)
+√ rah "desert" (vi)
+√ rakṣ "protect" (anu, abhi, ā, pari, pra, vi, sam)
+√ ram "be ormake content" (anu, abhi, ā, upa, ni, pari, vi)
+√ ramb "hang down"
+√ rambh "roar"
+√ rap "chatter"
+√ raph 
+√ rapś "be full" (pra, vi)
+√ ras "roar" (abhi, ā, vi)
+√ raś (abhi, ā, vi)
+√ reḍ "deceive (?)"
+√ rebh "vide √ ribh"
+√ rej "tremble" (pra, sam)
+√ ri "flow" (anu, ā, ni, nis, vi, sam)
+√ riñkh "creep"
+√ riṣ "be hurt"
+√ ribh "sing"
+√ ric "leave" (ati, ā, ud, pra, vi)
+√ rih "lick" (ā, pari, sam)
+√ rī "vide √ ri"
+√ rikh "scratch"
+√ rip "smear"
+√ riph "snarl" (ava, ā)
+√ riś "tear"
+√ ruṣ "be vexed"
+√ ruṭh "torment"
+√ ruc "shine" (ati, abhi, ud, upa, pra, vi, sam)
+√ rud "weep" (anu, pra, vi)
+√ ruh "ascend" (ati, adhi, anu, api, abhi, ava, ā, upa, pra, vi, sam)
+√ ruj "break" (ava, ā, pra, vi, sam)
+√ rup "break, pain"
+√ rūṣ "strew"
+√ sṛ "flow" (anu, apa, api, abhi, ā, ud, upa, abhi, nis, parā, pari, pra, vi, sam)
+√ sṛj "send forth" (ati, anu, api, abhi, ava, ā, ud, upa, nis, pra, vi, sam)
+√ sṛk "be pointed (?)"
+√ sṛp "creep" (ati, adhi, anu, apa, abhi, ava, ā, ud, upa, nis, pari, pra, vi, sam)
+√ sādh "succeed" (upa, pari, pra, sam)
+√ sac "accompany" (anu, apa, abhi, ā, upa, ni, pra, sam)
+√ sad "sit" (ati, anu, ava, ava, ā, ud, upa, ni, pari, pra, vi, sam)
+√ sah "prevail" (abhi, ud, nis, pra, vi, sam)
+√ saj "hang" (anu, abhi, ava, ā, ni, pra, vi, sam)
+√ sakṣ "vide √  sah"
+√ san "gain" (ā, pra, sam)
+√ sap "serve" (abhi)
+√ sarj "creak"
+√ sas "sleep"
+√ saśc "vide √ sac"
+√ sev "attend upon" (anu, ā, upa, ni, pari, sam)
+√ si "bind"
+√ sī "vide √ si"
+√ skṛ "vide √ 1 kṛ"
+√ skambh "prop," (ā, upa, vi)
+√ skand "leap" (ati, abhi, ava, ā, pari, Int, pra, sam)
+√ skhal "stumble" (pra, vi)
+√ sku "tear"
+√ smṛ "remember" (anu, apa, upa, pra, vi, sam)
+√ snā "bathe" (ud, ni, pra, sam)
+√ snih "be sticky" (upa)
+√ snu (pra)
+√ spṛ "win" (apa, ava, ā, nis, vi,, pra)
+√ spṛdh "contend" (vi, sam)
+√ spṛh "be eager" (sam)
+√ spṛś "touch" (adhi, anu, abhi, ā, ud, upa, pari, sam)
+√ spand "quiver" (sam)
+√ spaś "vide √ 1 paś"
+√ sphṛ "jerk etc. " (vi, apa, ava, nis, pari, pra, vi)
+√ sphaṭ "split"
+√ sphā "fatten" (ā, vi)
+√ sphal "strike"
+√ sphar "vide √ sphṛ"
+√ sphuṭ "burst" (ā, pra, vi)
+√ sphur "vide √ sphṛ"
+√ sphūrj "rumble" (abhi, ava, vi)
+√ spūrdh "vide √ spṛdh"
+√ sraṃs "fall" (ava, vi)
+√ sridh "blunder (?)"
+√ srīv "fail"
+√ sru "flow" (ati, adhi, abhi, ava, ā, upa, ni, nis, pari, pra, vi, sam)
+√ stṛ "strew" (ava, ā, upa, ni, pari, pra, vi, sam)
+√ stṛh "crush,"
+√ stā "be stealthy"
+√ stambh "prop" (ava, ud, upa, vi, sam)
+√ stan "thunder" (nis, pra)
+√ sthā "stand" (ati, adhi, anu, apa, api, abhi, ava, ā, ud, upa, ni, nis, pari, pra, vi, sam)
+√ sthag "cover"
+√ stigh "mount" (ati, pra)
+√ stim "be stiff"
+√ stubh "praise" (anu, abhi, pari, pra)
+√ styā "stiffen"
+√ su "press out" (adhi, abhi, ā, vi, sam)
+√ subh "smother (?)"
+√ sū "generate, enliven, impel" (apa, abhi, ā, nis, parā, pra, sam)
+√ sūd "put in order" (ni)
+√ sūrkṣ "heed"
+√ svād "vide √ svad"
+√ svad "sweeten" (ā)
+√ svaj "embrace" (vi, sam)
+√ svan "sound" (ava, ā, pari, pra, vi)
+√ svap "sleep" (ni, pra)
+√ svar "sound" (ati, abhi, ava, sam)
+√ svid "sweat" (pra, sam)
+√ syand "move on" (anu, abhi, ava, ā, upa, ni, pra, pari, vi, sam)
+√ tṛ "pass" (ati, abhi, ava, ā, ud, ni, nis, pra, vi, sam)
+√ tṛṣ "be thirsty" (vi)
+√ tṛd "split, bore" (anu, abhi, ā, vi, sam)
+√ tṛh "crush" (vi)
+√ tṛp "be pleased" (abhi, ā, pari, pra, vi, sam)
+√ taḍ "beat" (abhi, ā, pari, vi, sam)
+√ tañc "coagulate" (ā)
+√ taṭ "clatter"
+√ tā "vide √ 1 tan"
+√ tāv 
+√ tāy "stretch" (vi, sam)
+√ tak "rush" (nis)
+√ takṣ "fashion" (anu, apa, ā, ud, nis, pra, vi, sam)
+√ tam "faint" (ud, sam, pra)
+√ tand "be weary"
+√ tap "heat" (ati, anu, abhi, ā, ud, upa, nis, pari, pra, vi, sam)
+√ tarj "threaten" (abhi, vi, pari, sam)
+√ tark "think" (pari, vi, sam)
+√ tas "vide √ taṃs"
+√ ti "crush"
+√ tij "be sharp" (ud, sam)
+√ til 
+√ tim "be quiet"
+√ tir "vide √ tṛ"
+√ tsar "approach stealthily" (abhi, upa, ava)
+√ tu "be strong" (ud, sam)
+√ tuṣ "be content" (upa, pari, sam)
+√ tuc "impel, generate"
+√ tud "push, thrust" (ā, ni, pra, vi)
+√ tuj "urge, thrust"
+√ tul "lift, weigh" (ā, ud, sam)
+√ tur "vide √ tṛ"
+√ turv "overcome"
+√ tūrv "vide √ turv"
+√ tuś "drip" (ni)
+√ tvaṅg "leap"
+√ tvac "cover"
+√ tvakṣ "fashion"
+√ tvar "hasten" (ati, pari, pra, sam)
+√ tviṣ "be stirred up"
+√ tyaj "forsake" (abhi, pari, sam)
+√ uñch "glean"
+√ uṣ "burn" (ud, ni, sam)
+√ 1 uṣ "shine" (vide √ 1 vas)
+√ 2 uṣ "burn" (ud, ni, prati, sam)
+√ ubh "confine" (ni, sam)
+√ ubj "force" (ni, nis)
+√ uc "be pleased" (ni, sam)
+√ ud "wet" (abhi, upa, ni, vi, sam)
+√ ujh "forsake" (pra, sam)
+√ vṛṃh "roar"
+√ vṛṣ "rain" (abhi, ava, ā, pra, vi, sam)
+√ vṛdh "grow" (ati, anu, abhi, ā, pari, pra, vi, sam)
+√ vṛh "tear" (ā, ud, ni, pra, vi, sam)
+√ vṛj "twist" (apa, api, ava, ā, ud, ni, parā, pari, pra, sam)
+√ vṛt "turn" (ati, adhi, anu, apa, abhi, ā, ud, upa, ni, nis, parā, pari, pra, vi, sam)
+√ vañc "move crookedly" (abhi, ā, upa, nis, pari, pra, sam)
+√ vaṇṭ "divide"
+√ vāh "press"
+√ vāś "bellow" (anu, abhi, sam)
+√ vac "speak" (adhi, anu, abhi, ā, upa, nis, pra, vi, sam)
+√ vad "speak" (ati, anu, ava, abhi, ava, ā, ud, nis, parā, pari, pra, vi, sam)
+√ vadh "slay" (apa, abhi, ā, ud, upa, ni, nis, parā, pra, vi)
+√ vah "carry" (ati, anu, apa, abhi, ā, ud, ud, upa, ni, nis, parā, pari, pra, vi, sam)
+√ vaj "be strong"
+√ vakṣ "increase" (ati)
+√ val "turn" (vi)
+√ valg "spring" (abhi, ava, ā, pra, vi, sam)
+√ valh "challenge"
+√ vam "vomit" (abhi, ud, nis)
+√ van "win" (abhi, ā, upa, pra, sam)
+√ vand "greet" (abhi, pari, pra, sam)
+√ vat "apprehend" (api)
+√ vaś "be eager" (abhi)
+√ veṣṭ "vide √ viṣṭ"
+√ vell "stagger" (vi, sam)
+√ ven "long" (anu, apa, vi)
+√ viṣ "be active" (upa, pari)
+√ viṣṭ "wrap" (anu, apa, abhi, ā, ud, upa, ni, nis, pari, vi, sam)
+√ vī "enjoy etc " (ati, apa, abhi, ava, ā, upa, ni, pra)
+√ vīḍ "make strong"
+√ vij "tremble" (ud, pra, vi, sam)
+√ vindh "lack"
+√ vip "tremble" (ud, pari, pra, vi, sam)
+√ viś "enter" (anu, ā, upa, ni, nis, pra, sam)
+√ vlag "pursue (?)" (abhi)
+√ vlī "crush"
+√ vrādh "stir up"
+√ vrad "weaken"
+√ vraj "proceed" (ati, anu, apa, abhi, ā, ud, upa, pari, pra, sam)
+√ vran "sound (?)"
+√ vraśc "cut up" (api, ava, ā, ni, pari, pra, vi, sam)
+√ vrīḍ "be abashed"
+√ vruḍ "sink"
+√ vyā "envelop" (apa, api, ā, upa, ni, pari, sam)
+√ vyac "extend" (sam)
+√ vyadh "pierce" (ati, anu, apa, abhi, ava, ā, ni, nis, parā, pari, pra, vi, sam)
+√ vyaj "vide √ vīj"
+√ vyath "waver" (pra, vi, sam)
+√ vyay "expend"
+√ yā "go" (ati, anu, apa, abhi, ava, ā, ud, upa, ni, nis, pari, pra, vi, sam)
+√ yāc "ask" (anu, abhi, ā, upa, nis, pra, sam)
+√ yād "unite (?)"
+√ yabh "fuck"
+√ yach "vide √ yam"
+√ yah 
+√ yaj "offer" (anu, apa, api, ava, ā, pari)
+√ yam "reach" (adhi, anu, ā, upa, ni, pra, vi, sam)
+√ yas "be heated" (ā, pra)
+√ yat "stretch" (adhi, ā, upa, ni, nis, pari, pra, vi, sam)
+√ yeṣ "vide √ yas"
+√ yudh "fight" (abhi, ā, ud, ni, pra, sam)
+√ yuj "join" (anu, abhi, ā, ud, upa, ni, pra, vi, sam)
+√ yup "obstruct" (sam)
+√ śṛdh "be defiant"
+√ śaṅk "doubt" (ati, abhi, ā, upa, pari, vi, sam)
+√ śā "sharpen" (ati, ava, ā, ni, sam)
+√ śak "be able" (anu, ā, upa, pari, pra, sam)
+√ śal "leap" (ud)
+√ śap "curse" (abhi, pari, sam)
+√ śas "cut" (vi)
+√ śat "cut in pieces" (apa, ni, pra, vi, sam)
+√ śaś "leap"
+√ ścam 
+√ ścand "shine"
+√ ścut "drip" (abhi, ava, ni, pra, vi)
+√ śiṅgh "snuff"
+√ śiñj "twang" (vi, sam)
+√ śiṣ "leave" (ati, apa, ava, pari, vi)
+√ śikṣ "vide √ śak"
+√ śim "vide √ 1 śam"
+√ śip "be smooth (?)"
+√ ślā "dissolve (?)"
+√ ślāgh "extol" (sam)
+√ ślath "vide √ śrath"
+√ śliṣ "clasp" (ā, upa, vi, sam)
+√ śnath "pierce" (apa, ni)
+√ śrā "boil"
+√ śram "be weary" (abhi, upa, pari, vi)
+√ śrambh "trust" (vi)
+√ śran "give"
+√ śrath "slacken" (anu, vi)
+√ śri "resort" (adhi, apa, abhi, ā, ud, upa, pari, pra, vi, sam)
+√ śriṣ "vide √ śliṣ"
+√ śru "hear" (ati, anu, abhi, ā, upa, pari, pra, vi, sam)
+√ śruṣ "hear" (ā)
+√ śubh "beautify" (ati, abhi, vi, sam)
+√ śuc "gleam" (anu, apa, abhi, ā, ud, ni, nis, pari, pra, sam)
+√ śudh "purify" (pari, vi, sam)
+√ śuj "swell (?)"
+√ śū "swell"
+√ śvañc "spread" (ud)
+√ śvā "vide √ śū"
+√ śvas "blow" (abhi, ā, ud, ni, nis, pra, vi)
+√ śvit "be bright" (ava, vi)
+√ śyā "coagulate" (ā)
