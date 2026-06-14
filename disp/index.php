@@ -44,8 +44,9 @@ body {
  }
 // echo "page = $page\n";
  if ($page) {
-  $src = $page;
-  $src = "'" . $src . "'";
+  // JSON-encode for safe embedding in the inline <script> (reflected-XSS guard).
+  // HEX flags also neutralise </script>, quotes and & in the JS string context.
+  $src = json_encode((string)$page, JSON_HEX_TAG|JSON_HEX_APOS|JSON_HEX_QUOT|JSON_HEX_AMP);
   echo '<script type="text/javascript">' . "\n";
   echo 'function loadOnePage() {' . "\n";
   echo ' displaylink(' . $src . ");\n";
