@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -25,3 +27,5 @@ The display is a self-contained PHP application serving scanned page images.
 
 - **PHP** (CLI + Apache/XAMPP)
 - Scanned images in `jpg/`
+
+_Dr. Mārcis Gasūns_
