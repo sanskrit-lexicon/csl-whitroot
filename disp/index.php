@@ -6,6 +6,7 @@
   <head>
     <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
     <title>Whitney Roots Scan</title>
+<?php require_once(__DIR__ . "/og_meta.php"); echo og_meta_page("whitneyroots"); ?>
     <link rel="stylesheet" href="main0.css">
     <link rel="stylesheet" href="main1.css">
   <script type="text/javascript" src="ajax.js"> </script>
